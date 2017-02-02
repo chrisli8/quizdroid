@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="math_questions">
+        <item>Math Question 1</item>
+        <item>Math Question 2</item>
+        <item>Math Question 3</item>
+    </string-array>
+
+    <string-array name="physics_questions">
+        <item>Physics Question 1</item>
+        <item>Physics Question 2</item>
+        <item>Physics Question 3</item>
+    </string-array>
+
+    <string-array name="marvel_questions">
+        <item>Marvel Hero Question 1</item>
+        <item>Marvel Hero Question 2</item>
+        <item>Marvel Question 3</item>
+    </string-array>
+</resources>
