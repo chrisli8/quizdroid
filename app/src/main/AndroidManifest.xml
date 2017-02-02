@@ -15,12 +15,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MathTopic" />
-        <activity android:name=".PhysicsTopic" />
-        <activity android:name=".MarvelHeroesTopic" />
-        <activity android:name=".CustomTopic" />
-        <activity android:name=".MathQuestion1" />
-        <activity android:name=".GenericQuestion" />
         <activity android:name=".QuizActivity"></activity>
     </application>
 
